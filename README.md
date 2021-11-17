@@ -1,2 +1,2 @@
 # Traffic-Light
-Arduino traffic light project
+Arduino Traffic Light project by Aaron Ancheta, Madeleine Doi, Cameron McGinnis
